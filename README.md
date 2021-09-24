@@ -2,7 +2,7 @@
 Group A repository for OMIS 482 R Studio project 
 ---
 title: "the_movie_reviewers"
-author: "Gary Dhami, Amelasky Mendez, Tyler Williams, Rachel Worden"
+author: "Gary Dhami, Francisco Lozano, Amelasky Mendez, Tyler Williams, Rachel Worden"
 date: "`r format(Sys.time(), '%d %B, %Y')`" 
 output: 
   html_document:
